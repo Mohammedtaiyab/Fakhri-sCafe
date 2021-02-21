@@ -1,0 +1,1029 @@
+VEG-FOOTLONGS
+(LONG BREAD PIZZA)
+Regular Medium
+Small
+Shuddh Veg FootLongs
+90
+140
+200
+Italian Veg FootLongs
+100
+160
+220
+Paneer Tikka FootLongs
+100
+170
+230
+Paneer Spicy FootLongs
+100
+170
+230
+Cheesey Blast FootLongs
+110
+180
+240
+
+
+
+
+BEVERAGES
+WATER BOTTLE
+10,20
+HOT TEA
+20
+HOT COFFEE
+30
+40
+SOFT DRINKS (THUMSUP, FANTA, SPRITE)
+LEMON ICE TEA
+ENERGY DRINK (RED BULL)
+50
+120
+COLD COFFEE
+70
+COLD COFFEE WITH ICE-CREAM
+80
+MILK SHAKES
+OREO MILK SHAKE
+60
+OREO STRABERRY SHAKE 70
+KITKAT SHAKE
+70
+CHOCOLATE SHAKE
+60
+STRABERRY SHAKE
+60
+PINEAPPLE SHAKE
+60
+BUTTER SCOTCH SHAKE 70
+MIX FRUIT SHAKE
+70
+VANILLA SHAKE
+70
+MANGO SHAKE
+70
+PAAN NAWABI
+80
+FAKHRI'S SPECIAL
+90
+MOCKTAILS
+40
+40
+50
+50
+EXTRAS
+CHEESE TOPPING 20
+50
+ICE LEMON JAL JEERA
+ICE ORANGE JAL JEERA
+GREEN APPLE
+BLACK CURRENT
+BLUE LAGOON
+SPARKING PINK
+ANAR
+ORANGE
+STRABERRY
+PAAN SHOT
+50
+50
+VEGGIE TOPPING 20
+50
+CHICKEN TOPING 20
+50
+50
+CHEESY DEEP
+40
+
+
+
+
+
+
+
+FAMILY VEG COMBO MEAL
+ITALIAN VEG PIZZA (M
++
+ALOO TIKKI BURGER ( 3
++
+FRENCH FRIES (2
++
+COKE 750 ML
+ONLY
+389
+PANEER TIKKA SANDWICH
+2
++
+SUPER ALOO TIKKI BURGER
+3
++
+FRENCH FRIES
+L
++
+COKE 750 ML
+ONLY
+449
+
+
+
+
+
+
+
+FAMILS NON-VEG LUMDU MEAL
+CHICKEN TIKKA PIZZA (M
++
+SUPER CHICKEN BURGER ( 3
++
+CHICKEN POPS
++
+ONLY
+749
+FRENCH FRIES
++
+COKE 750 ML
+CHICKEN CHEESE SANDWICH ( 2
++
+REGULAR CHICKEN BURGER ( 3
++
+FRENCH FRIES
++
+COKE
+750 ML
+ONLY
+599
+
+
+
+
+
+
+
+
+
+
+
+
+PARTY PACK VEG MEAL
+SHUDDH VEG PIZZA (M
+ITALIAN VEG PIZZA (M
+PANEER TIKKA PIZZA (M
+VEG BURGER ( 5
+SANDWICH
+2
+FRENCH FRIES (M
+COKE 2.5 LTR
+ONLY 1099
+PARTY PACK NON-VEG MEAL
+CHICKEN TIKKA PIZZA (M
+CHICKEN BBQ PIZZA
+M
+CHICKEN CHEESS OVERLOADED PIZZA (M
+VEG BURGER ( 5
+SANDWICH
+2
+FRENCH FRIES (M)
+COKE 2.5 LTR
+ONLY 1899
+
+
+
+
+
+
+
+
+
+VEG - BURGER
+Aloo Tikki Burger
+50
+Super Aloo Tikki Burger
+55
+Veg Popular Burger
+70
+Veg Spicy Burger
+75
+Veg Cheese Burger
+80
+Double decker Burger
+110
+Fakhri Special Veg Burger 70
+NON-VEG - BURGER
+Super Chicken Burger
+70
+Regular Chicken Burger
+80
+Chicken Chili Lava Burger
+90
+Chicken Cheesy Burger
+100
+Chicken Double Decker Burger 140
+Fakhri Special Chicken Burger 100
+
+
+
+
+
+NON-VEG - PIZZA
+Small
+100
+Regular Medium
+150 210
+Simple Chicken Pizza
+(Cheese,Onion,Capsicum, Tomato,
+Simple Chicken)
+100/150/210
+Chicken Spicy Pizza
+(Cheese,Onion, Capsicum, Tomato,
+Spicy Chicken)
+110/160/220
+Chicken Seekh Kabab Pizza
+(Cheese,Onion, Capsicum, Tomato,
+Chicken Seekh Kabab.)
+120/170/240
+Chicken Tikka Pizza
+(Cheese,Onion, Capsicum, Tomato,
+Chicken Tikka Boti)
+120/170/240
+Chicken BBQ Pizza
+(Cheese,Onion, Capsicum, Tomato,
+BBQ Chicken)
+130/180/300
+Chicken Cheess Overloaded Pizza 140
+(Full Cheese And Chicken,Baby Corn.
+Olive, Vegi)
+110/180/280
+Fakhri Special Chicken Pizza
+(Cheese, Vegi, Chicken, Olive, Mashroom,
+Baby Corn,Sweet Corn)
+
+
+
+
+
+
+
+
+
+
+
+
+VEG - SANDWICH
+Veg Grill Sandwich
+70
+Cheese Grill Sandwich
+80
+Aloo Tikka Sandwich
+90
+Italian Veg Sandwich
+110
+Fakhri Special Veg Sandwich
+100
+NON-VEG - SANDWICH
+Chicken Grill Sandwich
+90
+Chicken Tikka Sandwich
+100
+Chicken Kabab Sandwich
+120
+Chicken BBQ Sandwich
+120
+Chicken Cheese Sandwich
+130
+Fakhri Special Chicken Sandwich 140
+
+
+
+
+
+
+
+
+
+VEG - PIZZA
+Small
+Regular Medium
+Magrita Simple Chessy Pizza
+80/140/200
+(Simple Cheesy)
+90
+150
+230
+Shuddh Veg Pizza
+(Cheese,Onoin,,Capsicum, Tomato)
+100/180/260
+Paneer Tikka Pizza
+(Cheesy,Tikka Paneer, Onion,
+Tomato, Capsicum)
+100/160/250
+Rich Veg Pizza
+(Cheese, Onion, Tomato, Olive,
+SweetCorn,Mashroom)
+100/160/250
+Olive Corn Pizza
+(Cheese, Sweetcorn, Olive)
+110/170/270
+Chessy Blast Pizza
+(Full Cheesy,BabyCorn,Onion,
+Tomato,Capsicum)
+
+
+
+
+
+
+
+
+
+
+
+
+NON-VEG - FOOTLONGS
+(LONG BREAD PIZZA)
+Regular Medium
+Small
+Simply Chicken FootLongs
+90
+150
+240
+Chicken Spicy FootLongs
+100
+160
+250
+Chicken Tikka FootLongs
+120
+180
+300
+Chicken BBQ FootLongs
+130
+190
+310
+150
+210
+380
+Chicken Cheese Overloaded
+FootLongs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VEG-FOOTLONGS
+(LONG BREAD PIZZA)
+Regular Medium
+Small
+Shuddh Veg FootLongs
+90
+140
+200
+Italian Veg FootLongs
+100
+160
+220
+Paneer Tikka FootLongs
+100
+170
+230
+Paneer Spicy FootLongs
+100
+170
+230
+Cheesey Blast FootLongs
+110
+180
+240
+
+
+
+
+
+
+
+
+
+
+
+
+
+VEG-GARLIC BREAD
+80
+Simply Cheesey Garlic Bread
+Cheesey Veggi Garlic Bread
+100
+Paneer Tikka Garlic Bread
+110
+NON-VEG - GARLIC BREAD
+Simply Chicken Garlic Bread
+100
+Chicken Tikka Garlic Bread
+120
+Chicken BBQ Garlic Bread
+120
+VEG-PASTA
+Merinary Pasta (Red Sauce)
+80
+Alfedo Pasta (White Sauce)
+90
+NON-VEG - PASTA
+120
+Chicken Merinary Pasta
+(Red Sauce)
+140
+Chicken Alfedo Pasta
+(White Sauce)
+
+
+
+
+
+
+
+
+
+
+VEG
+SNACKS
+French Fries
+90
+Masala Fries
+100
+Cheesy French Fries
+100
+Cheesy Masala Fries
+110
+Patato Chili Bites
+90
+Tandoori Veg Nugets
+100
+Patato Wegis
+100
+NON-VEG
+SNACKS
+Chicken Pops
+150
+Chicken Nugets
+160
+Chicken Seekh Kabab
+160
+Chicken Fingers
+160
+
+
+
+
+
+SMALL VEG COMBO MEAL
+ITALIAN PIZZA
++
+
++
+FRENCH FRIES
+ONLY
++
+COKE
+249
+ALOO TIKKA SANDWICH
++
+FRENCH FRIES ONLY
+179
++
+COKE
+VEG CHEESE BURGER
+FRENCH FRIES
+ONLY
+159
++
+COKE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper">
+
+		<div class="container">
+			<img src="FAKHRI_CAFE.png" alt="" width="50%">
+		
+
+		</div>
+		<h2>Our Menu</h2>
+		<div class="buttons-container">
+		  <a href="#" class="button button--is-active" data-target="Snacks">Snacks</a>
+		  <a href="#" class="button" data-target="Foot">Foot Longs</a>
+		  <a href="#" class="button" data-target="Sandwich">Sandwich</a>
+		  <a href="#" class="button" data-target="Burger">Burger</a>
+		  <a href="#" class="button" data-target="Pizza">Pizza</a>
+		  <a href="#" class="button" data-target="Garlic">Garlic Bread</a>
+		  <a href="#" class="button" data-target="Pasta">Pasta</a>
+		  <a href="#" class="button" data-target="Combo">Combo Meal</a>
+		  <a href="#" class="button" data-target="Mocktails">Mocktails</a>
+		  <a href="#" class="button" data-target="Shakes">Milk Shakes</a>
+		  <a href="#" class="button" data-target="Beverages">Beverages</a>
+		  <a href="#" class="button" data-target="Chai">Chai</a>
+		</div>
+	  
+		<!-- Start Pizza Menu -->
+		<div class="menu menu--is-visible" id="Snacks">
+			<div class="container">
+				<h2>Veg-Snacks</h2>	
+			</div>
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Frensh Fries</h5><h5>₹90</h5></div>
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Masala Fries</h5><h5>₹100</h5></div>
+		
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Cheesy Frensh Fries</h5><h5>₹110</h5></div>
+			<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Patato Chili Bites</h5><h5>₹90</h5></div>
+		  </div>
+
+
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Tandoori Veg Nugets</h5><h5>₹100</h5></div>
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Patato Wegis</h5><h5>₹100</h5></div>
+		  </div>
+
+
+
+
+		  <div class="container">
+			<h2>Non Veg-Snacks</h2>	
+		</div>
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5></h5><h5>₹150</h5></div>
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5></h5><h5>₹160</h5></div>
+	
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Seekh Kabab</h5><h5>₹160</h5></div>
+		<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Fingers</h5><h5>₹160</h5></div>
+	  </div>
+		</div> <!-- End Pizza Menu -->
+	  
+		<!-- Start Coffee Menu -->
+		<div class="menu" id="Sandwich">
+			<div class="container">
+				<h2>Veg-Sandwich</h2>	
+			</div>
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Veg Grill Sandwich</h5><h5>₹70</h5></div>
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Cheese Grill Sandwich</h5><h5>₹80</h5></div>
+		
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Aloo Tikka Sandwich</h5><h5>₹90</h5></div>
+			<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Fakhri Special </h5><h5>₹100</h5></div>
+		  </div>
+
+
+		  <div class="container">
+			<h2>Non Veg</h2>	
+		</div>
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Grill Sandwich</h5><h5>₹90</h5></div>
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Tikka Sandwich</h5><h5>₹100</h5></div>
+	
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Kabab Sandwich</h5><h5>₹120</h5></div>
+		<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken BBQ Sandwich</h5><h5>₹120</h5></div>
+	  </div>
+
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Cheese Sandwich</h5><h5>₹130</h5></div>
+	  </div>
+
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Fakhri Special Chicken</h5><h5>₹140</h5></div>
+	  </div>
+		</div> <!-- End Coffee Menu -->
+	  
+
+
+
+
+
+
+
+
+
+
+		<!-- Start Noodles Menu -->
+		<div class="menu" id="Foot">
+		 		<div class="container">
+				<h2>Veg-FootLongs</h2>	
+			</div>
+			<div class="item">
+				<div class="item__header">
+				 <div class="menu-items"><h5>Size</h3>
+				   <span class="item__dots"></h5> 
+				  <span class="item__price">SML/REG/MED</h5>
+				</div>
+			  </div>
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Shuddh Veg </h5><h5>90/140/200</h5></div>
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Italian Veg</h5><h5>100/160/220</h5></div>
+		
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Paneer Tikka</h5><h5>100/170/230</h5></div>
+			<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Paneer Spicy</h5><h5>100/170/230</h5></div>
+		  </div>
+
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Cheesey Blast </h5><h5>110/180/240</h5></div>
+		  </div>
+		  <div class="container">
+			<h2>Non Veg</h2>	
+		</div>
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Simply Chicken</h5><h5>90/150/240</h5></div>
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Spicy</h5><h5>100/160/250</h5></div>
+	
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Tikka</h5><h5>120/180/300</h5></div>
+		<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken BBQ</h5><h5>130/190/310</h5></div>
+	  </div>
+
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Cheese Overloaded</h5><h5>150/210/380</h5></div>
+	  </div>
+
+		</div> <!-- End Noodles Menu -->
+	  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="menu" id="Burger">
+			<div class="container">
+				<h2>Veg-Burger</h2>	
+			</div>
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Aloo Tikki Burger</h5><h5>₹50</h5></div>
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Super Aloo Tikki Burger</h5><h5>₹55</h5></div>
+		
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Veg Popular Burger</h5><h5>₹70</h5></div>
+			<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Veg Spicy Burger</h5><h5>₹75</h5></div>
+		  </div>
+
+
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Veg Cheese Burger</h5><h5>₹80</h5></div>
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Double Decker Burger</h5><h5>₹110</h5></div>
+		  </div>
+
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Fakhri Special veg Burger</h5><h5>₹70</h5></div>
+		  </div>
+
+
+		  <div class="container">
+			<h2>Non Veg-Burger</h2>	
+		</div>
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Super Chicken Burger</h5><h5>₹70</h5></div>
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Regular Chicken Burger</h5><h5>₹80</h5></div>
+	
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Chili Lava Burger</h5><h5>₹90</h5></div>
+		<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Cheesy Burger</h5><h5>₹100</h5></div>
+	  </div>
+
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Double Decker </h5><h5>₹140</h5></div>
+		<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Fakhri Special Chicken </h5><h5>₹100</h5></div>
+	  </div>
+
+		</div> <!-- End Pizza Menu -->
+	  
+		<!-- Start Coffee Menu -->
+		<div class="menu" id="Pizza">
+			<div class="container">
+				<h2>Veg-Pizza</h2>	
+			</div>
+			<div class="item">
+				<div class="item__header">
+				  <div class="menu-items"><h5>Size</h5><h5>SML/REG/MED</h5>
+				</div>
+			  </div>
+			<div class="item">
+				<div class="item__header">
+				  <div class="menu-items"><h5>Magrita Simple Chessy</h5><h5>80/140/200</h5>
+			
+				</div>
+				<p class="item__description">(Simple Cheesy)</p>
+			  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Shuddh Veg Pizza</h5><h5>100/180/260</h5></div>
+			<p class="item__description">(Cheese,Onoin,Capsicum, Tomato)</p>
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Aloo Tikka Sandwich</h5><h5>₹90</h5></div>
+			<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Fakhri Special </h5><h5>₹100</h5></div>
+		  </div>
+
+
+		  <div class="container">
+			<h2>Non Veg-Pizza</h2>	
+		</div>
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Magrita Simple Chessy</h5><h5>₹80/140/200</h5></div>
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Tikka Sandwich</h5><h5>₹100</h5></div>
+	
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Kabab Sandwich</h5><h5>₹120</h5></div>
+		<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken BBQ Sandwich</h5><h5>₹120</h5></div>
+	  </div>
+
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Cheese Sandwich</h5><h5>₹130</h5></div>
+	  </div>
+
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Fakhri Special Chicken</h5><h5>₹140</h5></div>
+	  </div>
+		</div> <!-- End Coffee Menu -->
+	  
+
+
+
+
+
+
+
+
+
+
+		<!-- Start Noodles Menu -->
+		<div class="menu" id="Foot">
+		 		<div class="container">
+				<h2>Veg-FootLongs</h2>	
+			</div>
+			<div class="item">
+				<div class="item__header">
+				 <div class="menu-items"><h5>Size</h3>
+				   <span class="item__dots"></h5> 
+				  <span class="item__price">SML/REG/MED</h5>
+				</div>
+			  </div>
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Shuddh Veg </h5><h5>90/140/200</h5></div>
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Italian Veg</h5><h5>100/160/220</h5></div>
+		
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Paneer Tikka</h5><h5>100/170/230</h5></div>
+			<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+		  </div>
+	  
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Paneer Spicy</h5><h5>100/170/230</h5></div>
+		  </div>
+
+		  <div class="item">
+			<div class="item__header">
+			  <div class="menu-items"><h5>Cheesey Blast </h5><h5>110/180/240</h5></div>
+		  </div>
+		  <div class="container">
+			<h2>Non Veg</h2>	
+		</div>
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Simply Chicken</h5><h5>90/150/240</h5></div>
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Spicy</h5><h5>100/160/250</h5></div>
+	
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Tikka</h5><h5>120/180/300</h5></div>
+		<!-- <p class="item__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p> -->
+	  </div>
+  
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken BBQ</h5><h5>130/190/310</h5></div>
+	  </div>
+
+	  <div class="item">
+		<div class="item__header">
+		  <div class="menu-items"><h5>Chicken Cheese Overloaded</h5><h5>150/210/380</h5></div>
+	  </div>
+
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  </div> <!-- End Wrapper -->
